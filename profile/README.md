@@ -2,7 +2,7 @@
 <img width="60px" src="https://pts-project.org/android-chrome-512x512.png">
 <h1>PiRogue Tool Suite</h1>
 <p>
-The PiRogue Tool Suite is an open-source consensual digital forensic analysis and incident response solution that empowers organizations with comprehensive tools for network traffic analysis, mobile forensics, knowledge management, and artifact handling. The tool suite includes both hardware and software components, with the PiRogue network router and its Colander case management platform. Thanks to its open-source and comprehensive nature, its user-friendly design and modular flexibility, and also its community support, the PiRogue tool suit has become an attractive option for organizations seeking a cost-effective solution for digital investigations.
+The PiRogue Tool Suite is an open-source consensual digital forensic analysis and incident response solution that empowers organizations with comprehensive tools for network traffic analysis, mobile forensics, knowledge management, and artifact handling. The tool suite includes both hardware and software components, with the PiRogue network router and the Colander case management platform. Thanks to its open-source community driven approach, its user-friendly design, modular flexibility, and its community support, the PiRogue tool suite has become an attractive option for organizations seeking a cost-effective solution for digital investigations.
 </p>
 <p>
 Website: <a href="https://pts-project.org" alt="PiRogue Tool Suite website">https://pts-project.org</a>
